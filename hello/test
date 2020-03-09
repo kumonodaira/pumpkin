@@ -3,4 +3,4 @@ $ cd github
 $ mkdir gittest
 $ cd gittest
 $ git init
-$ put hellogithub
+$ put hellohello
