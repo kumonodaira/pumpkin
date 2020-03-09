@@ -1,1 +1,6 @@
-hello github!
+$ mkdir github
+$ cd github
+$ mkdir gittest
+$ cd gittest
+$ git init
+put hello github!
